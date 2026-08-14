@@ -1,6 +1,6 @@
 {
-  "versao_codigo": 2,
-  "versao_nome": "1.1.0",
+  "versao_codigo": 1,
+  "versao_nome": "1.0",
   "url_download": "https://github.com/Ctmon20/Atualizar/raw/refs/heads/main/app-debug.apk",
   "mensagem": "Correção de bugs, melhorias e adição de novos filmes no player."
 }
